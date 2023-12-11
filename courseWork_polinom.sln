@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "courseWork_polinom", "courseWork_polinom.csproj", "{2B405296-13B5-43D2-B8F8-E7722C2471DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operationsPolynomials", "..\operationsPolynomials\operationsPolynomials.csproj", "{A5993536-10AD-421D-AEA2-E64838F184EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B405296-13B5-43D2-B8F8-E7722C2471DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B405296-13B5-43D2-B8F8-E7722C2471DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B405296-13B5-43D2-B8F8-E7722C2471DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B405296-13B5-43D2-B8F8-E7722C2471DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5993536-10AD-421D-AEA2-E64838F184EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5993536-10AD-421D-AEA2-E64838F184EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5993536-10AD-421D-AEA2-E64838F184EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5993536-10AD-421D-AEA2-E64838F184EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD9FB822-4485-462D-AF9A-B9F3B2D258AD}
+	EndGlobalSection
+EndGlobal
